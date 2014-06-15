@@ -82,6 +82,7 @@
   <string name="channel_not_support">暂时不支持该搜索引擎</string>
   <string name="china">中国</string>
   <string name="china_date">农历 %1$s年%2$s月%3$s</string>
+  <string name="chooser">Please choose</string>
   <string name="click_download">点击下载</string>
   <string name="clocking">已添加闹钟，点击查看</string>
   <string name="confirm">确定</string>

@@ -7,7 +7,12 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">版本号</string>
   <string name="actors_colon">"Cast: "</string>
+  <string name="add_more_addons">add more specials</string>
   <string name="add_review">Add comment</string>
+  <string name="addon"/>
+  <string name="addon_category">Hot Specials</string>
+  <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+  <string name="addon_update_desc">New version found, update mow?</string>
   <string name="adjust_position_next_media_notice">下一个</string>
   <string name="adjust_position_prev_media_notice">上一个</string>
   <string name="airkan_control_device_des">您可以通过底部的按钮控制视频的播放</string>
@@ -88,6 +93,8 @@
   <string name="declaration">Terms of use</string>
   <string name="declaration_content">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other video content providers?</string>
   <string name="delete">Delete</string>
+  <string name="delete_addon">Delete</string>
+  <string name="delete_addon_content">Delete this item?</string>
   <string name="delete_media">Delete</string>
   <string name="delete_media_content">Delete this item?</string>
   <string name="di_count_ji">Ep. %d</string>
@@ -140,6 +147,7 @@
   <string name="in_download_notification">%d videos are in caching</string>
   <string name="in_pause">Paused</string>
   <string name="in_waiting">Waiting</string>
+  <string name="install_comfirm">click to install</string>
   <string name="jni_invalid_param">Parameters invalid</string>
   <string name="jni_no_media_source">No media source</string>
   <string name="jni_res_connect_error">"Couldn't connect to network"</string>
@@ -210,6 +218,7 @@
   <string name="no_favorite">No favorites</string>
   <string name="no_favoritehistory">No favorite Channel</string>
   <string name="no_filter_media">"Couldn't find anything. Try altering your search."</string>
+  <string name="no_hot_special">not special</string>
   <string name="no_login_xiaomi_account">Sign in with your Xiaomi Account to submit comments.</string>
   <string name="no_media">Empty</string>
   <string name="no_myfavorite">Not starred</string>
@@ -247,6 +256,7 @@
   <string name="others">Other</string>
   <string name="pause_download">Caching paused</string>
   <string name="paused">Paused</string>
+  <string name="pick_addon_to_delete">choose items</string>
   <string name="pick_hide_to_show">Choose items</string>
   <string name="pick_myfavorite_to_cancel">Choose items</string>
   <string name="pick_video_to_delete">Choose items</string>
@@ -289,6 +299,7 @@
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
   <string name="special_subject">Specials</string>
+  <string name="start_addon">start addon</string>
   <string name="start_download">Start caching</string>
   <string name="start_time">start time</string>
   <string name="subchannel_all">全部</string>
@@ -320,6 +331,7 @@
   <string name="update_to_count_ji">Updated to Ep. %d</string>
   <string name="update_to_count_qi">Updated to S. %s</string>
   <string name="updatedalready">Updated</string>
+  <string name="upgrade">Upgrade</string>
   <string name="use_cellular_network">use cellular network</string>
   <string name="use_cellular_network_summary">use cellular network to download videos, this will cause the traffic cost.</string>
   <string name="variety">综艺</string>

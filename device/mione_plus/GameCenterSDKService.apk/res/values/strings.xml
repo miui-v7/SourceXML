@@ -25,12 +25,14 @@ contacts, photos, etc"</string>
   <string name="account_failed_to_send_activate_email">Failed to send activation email.</string>
   <string name="account_find_password_on_web_msg">Please visit account.xiaomi.com to retrieve password</string>
   <string name="account_forget_password">Forgot password</string>
+  <string name="account_getting_acc">Retrieving account information</string>
   <string name="account_hint_text">Email/Phone number</string>
   <string name="account_i_know">I know</string>
   <string name="account_input_password_hint">Input password</string>
   <string name="account_login">Sign in</string>
   <string name="account_login_failed">Sign in failed</string>
   <string name="account_login_notice">Signing in...</string>
+  <string name="account_login_tip">Welcome %s</string>
   <string name="account_micloud_account">Xiaomi account</string>
   <string name="account_micloud_account_label">Account: %1$s</string>
   <string name="account_micloud_account_name">Xiaomi account</string>
@@ -59,8 +61,11 @@ contacts, photos, etc"</string>
   <string name="account_micloud_val_sms_alert">An SMS will be sent to validate your phone number. Continue?</string>
   <string name="account_micloud_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="account_mili_center">MiCredit center</string>
+  <string name="account_modfiy_accname">Change nickname</string>
   <string name="account_name">Account:%1$s</string>
+  <string name="account_name_long">User name too long</string>
   <string name="account_next">Next</string>
+  <string name="account_next_login_show_dialog">Keep me logged in</string>
   <string name="account_password">Password</string>
   <string name="account_prev">Back</string>
   <string name="account_quick_login_title">"Authentication is required.
@@ -76,8 +81,10 @@ Please input your password"</string>
   <string name="account_skip_login">Skip login</string>
   <string name="account_skip_setup_account_msg">Using your Xiaomi Account, you can synchronize and backup your SMS, contacts, photos, notes, etc. Continue and setup later?</string>
   <string name="account_skip_setup_account_title">Skip account setting</string>
+  <string name="account_tip_isnull">Game ID cannot be left blank or empty</string>
   <string name="account_title_reg">Sign up Xiaomi account</string>
   <string name="account_unactivated_user">Unactivated</string>
+  <string name="account_update_list">Updating the list</string>
   <string name="account_user_agreement_p1">"By signing in, you are agreeing to
  the "</string>
   <string name="account_user_agreement_p2">Xiaomi terms of service</string>
@@ -85,8 +92,11 @@ Please input your password"</string>
   <string name="account_user_agreement_p4">Privacy policy</string>
   <string name="account_user_agreement_p5">"By signing up, you are agreeing to
  the "</string>
-  <string name="app_name">小米游戏安全插件</string>
-  <string name="crash_toast_text">testcrashtoasttext</string>
+  <string name="app_name">Xiaomi Game Security Plugin</string>
+  <string name="btn_account_begingame">Enter</string>
+  <string name="btn_cancel">Cancel</string>
+  <string name="btn_ok">OK</string>
+  <string name="create_account_txt">My game ID</string>
   <string name="delete">Delete</string>
   <string name="deprecated_10"/>
   <string name="deprecated_11"/>
@@ -132,16 +142,22 @@ Please input your password"</string>
   <string name="deprecated_7"/>
   <string name="deprecated_8"/>
   <string name="deprecated_9"/>
+  <string name="deputy_no_accountinfo">No information about alternative account retrieved</string>
+  <string name="error_code_authentication_error">Xiaomi account error. Please check</string>
+  <string name="error_code_canceled">Payment request has been cancelled</string>
+  <string name="error_code_duplicate_purchase">Operation too frequent. No need to click again.</string>
+  <string name="error_code_exception">Error... try again?</string>
+  <string name="error_code_network_error">Poor connection... check your network settings?</string>
   <string name="experimental_validate">Validate</string>
   <string name="experimental_validate_fail">Validate failed, please try again</string>
-  <string name="float_window_menu_custome">客服</string>
-  <string name="float_window_menu_gone">隐藏</string>
-  <string name="float_window_menu_message">论坛</string>
-  <string name="float_window_menu_more">更多</string>
-  <string name="float_window_menu_strategy">攻略</string>
-  <string name="float_window_menu_ticket">游戏礼券</string>
-  <string name="get_new_ticket_failed">领取失败</string>
-  <string name="get_new_ticket_succeeded">领取成功</string>
+  <string name="float_window_menu_custome">Customer services</string>
+  <string name="float_window_menu_gone">Hide</string>
+  <string name="float_window_menu_message">Forum</string>
+  <string name="float_window_menu_more">More</string>
+  <string name="float_window_menu_strategy">Walkthrough</string>
+  <string name="float_window_menu_ticket">Vouchers</string>
+  <string name="get_new_ticket_failed">Failed</string>
+  <string name="get_new_ticket_succeeded">Success</string>
   <string name="hello">Hello World, Main!</string>
   <string name="hfb_app_name">话付宝</string>
   <string name="hfb_complete">购买完成</string>
@@ -297,7 +313,28 @@ Please input your password"</string>
   <string name="linkpay_you_will_pay">您将支付</string>
   <string name="linkpay_yuan">元</string>
   <string name="linkpay_zhifubao">支付宝</string>
-  <string name="loading_default_text">载入中...</string>
+  <string name="loading_default_text">Loading...</string>
+  <string name="login_tip_40error">Failed to verify your account. Please leave the game and try to log in again to continue.</string>
+  <string name="login_tip_error1">"Your account hasn't been activated. Please activate your account and log in again"</string>
+  <string name="login_tip_error10">Failed to log in to your account. Error code[8]，please try again</string>
+  <string name="login_tip_error11">Failed to log in to your account. Error code[9]，please try again</string>
+  <string name="login_tip_error12">Failed to log in to your account. Error code[7-%s],please try again</string>
+  <string name="login_tip_error13">Failed to log in to your account. Error code[10]，please try again</string>
+  <string name="login_tip_error2">You have cancelled log-in . Please log in to your Xiaomi account first</string>
+  <string name="login_tip_error3">Login error. Error code[1]，Please log in to your account first</string>
+  <string name="login_tip_error4">Failed to retrieve your account info.. Error code[2]，please log in again</string>
+  <string name="login_tip_error5">Failed to log in to your account. Error code[3]，please try again</string>
+  <string name="login_tip_error6">Failed to log in to your account. Error code[4]，please try again</string>
+  <string name="login_tip_error7">Failed to log in to your account. Error code[5]，please try again</string>
+  <string name="login_tip_error8">Failed to log in to your account. Error code[6]，please try again</string>
+  <string name="login_tip_error9">Failed to verify token，please try to log in again</string>
+  <string name="menu_bt_bbs">Forum</string>
+  <string name="menu_bt_customer">Customer Service</string>
+  <string name="menu_bt_game">Game vouchers</string>
+  <string name="menu_bt_message">Message</string>
+  <string name="menu_bt_share">Share</string>
+  <string name="menu_bt_strategy">Walkthrough</string>
+  <string name="meuu_bt_seting">setting</string>
   <string name="mibi_account_detail">"Xiaomi account:
 %1$s"</string>
   <string name="mibi_app_name">Payment service</string>
@@ -348,14 +385,18 @@ Please input your password"</string>
   <string name="mibi_btn_wait_call_count">Waiting (%1$s)</string>
   <string name="mibi_btn_wait_confirm">Waiting</string>
   <string name="mibi_btn_wait_confirm_count">Waiting（%1$s）</string>
+  <string name="mibi_button_bind_phone">Bind now</string>
   <string name="mibi_button_call">Call</string>
   <string name="mibi_button_cancel">Cancel</string>
   <string name="mibi_button_confirm">Confirm</string>
+  <string name="mibi_button_count_down_reget">Gets the verification code(%1$s)</string>
   <string name="mibi_button_next">Next</string>
   <string name="mibi_button_pay">Confirm</string>
   <string name="mibi_button_recharge">Top up</string>
   <string name="mibi_button_recharge_pay">Confirm</string>
+  <string name="mibi_button_reget">Gets the verification code</string>
   <string name="mibi_button_retry">Retry</string>
+  <string name="mibi_button_sms_code">Confirm</string>
   <string name="mibi_cancel">Cancel</string>
   <string name="mibi_change_security_lock">More screen locks</string>
   <string name="mibi_colon">": "</string>
@@ -535,7 +576,12 @@ We will check again within two working days."</string>
   <string name="mibi_scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
   <string name="mibi_scan_prompt_voucher">Scan MiCredit password</string>
   <string name="mibi_security_setting">Security settings</string>
+  <string name="mibi_sms_code_error">Mobile phone verification code error, please get again</string>
+  <string name="mibi_sms_code_hint">Mobile phone verification code</string>
+  <string name="mibi_summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
   <string name="mibi_summary_lockpattern">Require a unique pattern lock for MiCredit</string>
+  <string name="mibi_summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
+  <string name="mibi_title_bind_phone">Binding mobile phone No.</string>
   <string name="mibi_title_change_lockpattern">Configure pattern lock</string>
   <string name="mibi_title_discounts">Discounts</string>
   <string name="mibi_title_gesture">Pattern lock</string>
@@ -550,6 +596,7 @@ We will check again within two working days."</string>
   <string name="mibi_title_pay_record">Payment records</string>
   <string name="mibi_title_recharge">Top up MiCredit</string>
   <string name="mibi_title_recharge_record">Top-up records</string>
+  <string name="mibi_title_sms_code">Please enter the mobile phone verification code</string>
   <string name="mibi_title_transaction">Transactions</string>
   <string name="mibi_title_visible_pattern">Make pattern visible</string>
   <string name="mibi_voucher_edit_hint">Code</string>
@@ -564,29 +611,83 @@ We will check again within two working days."</string>
   <string name="miui_user_manual_title">User manual</string>
   <string name="notification_title">Signin error for %1$s</string>
   <string name="open_wifi_settings">Open network connection</string>
-  <string name="order_detail_order">消费订单号</string>
-  <string name="order_detail_order_amount">消费金额: &lt;font color=#787878&gt;%s&lt;/font&gt;米币</string>
-  <string name="order_detail_order_date">消费时间: &lt;font color=#787878&gt;%s&lt;/font&gt;</string>
-  <string name="order_detail_order_name">商品名称: &lt;font color=#787878&gt;%s&lt;/font&gt;</string>
-  <string name="order_detail_title">使用详情</string>
-  <string name="order_list_empty_text">您还没有使用记录</string>
+  <string name="order_detail_order">Order number.</string>
+  <string name="order_detail_order_amount">Amount: &lt;font color=#787878&gt;%s&lt;/font&gt;MiCredit</string>
+  <string name="order_detail_order_date">Purchase Time: &lt;font color=#787878&gt;%s&lt;/font&gt;</string>
+  <string name="order_detail_order_name">Item: &lt;font color=#787878&gt;%s&lt;/font&gt;</string>
+  <string name="order_detail_title">Order details</string>
+  <string name="order_list_empty_text">No history</string>
+  <string name="pay_ali_msg">%1$sTop up%2$s RMB,Xiaomi ID%3$s</string>
+  <string name="pay_ali_msg2">%1$s(a worth of%2$sRMB),XiaomiID%3$s</string>
+  <string name="pay_ali_tipmsg6">Operation too frequent, please try again later</string>
+  <string name="pay_card_txt25">Not enough balance on your top-up card. %s RMB has been transferred into your MiCredit account, please check your account</string>
+  <string name="pay_card_txt26">The value of your top-up card is greater than your purchase amount. %s RMB has been transferred into your MiCredit balance, please check your account.</string>
+  <string name="pay_mi_txt6">Processing,please wait…</string>
+  <string name="pay_sms_dialogtitle">Tips</string>
+  <string name="pay_tip_checkpayresult">Checking payment status, please wait…</string>
+  <string name="pay_tip_checkpayresult_fail">Failed to check payment status</string>
+  <string name="pay_tip_checkpayresult_timeout">Checking payment status session timeout</string>
+  <string name="pay_tip_createorder">Creating order, please wait…</string>
+  <string name="pay_tip_createorder_fail">Failed to create the order. please try again</string>
+  <string name="paytype_aliapk_title">Alipay secure payment services</string>
+  <string name="paytype_aliweb_title">Alipay web payment</string>
+  <string name="paytype_card_title">Prepaid card</string>
+  <string name="paytype_computer_title">Top up on your PC</string>
+  <string name="paytype_sms_title">SMS</string>
+  <string name="paytype_tenapk_title">Tenpay secure payment services</string>
+  <string name="paytype_tenwap_title">Tenpay web payment</string>
   <string name="perm_payment_dspt">Allow app to pay through Xiaomi payment service</string>
   <string name="perm_payment_lab">Xiaomi payment service</string>
-  <string name="purchase_mibi">%s米币</string>
+  <string name="purchase_mibi">%sMiCredit</string>
   <string name="safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
-  <string name="tab_history">使用记录</string>
-  <string name="tab_mytickets">我的游戏礼券</string>
+  <string name="tab_history">Purchase history</string>
+  <string name="tab_mytickets">My vouchers</string>
+  <string name="text_create_gameid">Create an ID</string>
+  <string name="text_create_id">Create an ID</string>
+  <string name="text_days_ago">day(s) ago</string>
+  <string name="text_error_code">Error code</string>
+  <string name="text_float_cloasedialog">"Close the floating dialogue? 
+ It will automatically re-open the next time"</string>
+  <string name="text_game_account_login">Logging in...</string>
+  <string name="text_get_account_info">Retrieving account information</string>
+  <string name="text_hours_ago">hour(s) ago</string>
+  <string name="text_just_now">Just now</string>
+  <string name="text_login_tip">Login tips</string>
+  <string name="text_message_tiptext">Do not show again</string>
+  <string name="text_mibi">MiCredit</string>
+  <string name="text_miid">Xiaomi ID：</string>
+  <string name="text_minutes_ago">minute(s) ago</string>
+  <string name="text_modify_account_failed">Failed to update your account name</string>
+  <string name="text_modify_account_name">Updating account name</string>
+  <string name="text_modify_id">Change ID</string>
+  <string name="text_networt_error">No connections, please check your network settings.</string>
+  <string name="text_ticket_consumption">Used:</string>
+  <string name="text_ticket_detail_count">Game vouchers in total:</string>
+  <string name="text_ticket_expiry_date">Expiry Date:</string>
+  <string name="text_ticket_for_game">Eligible games:</string>
+  <string name="text_ticket_from">From:</string>
+  <string name="text_tip_close_floatwin">Are you sure you want to close the floating window?</string>
+  <string name="text_tip_miliao_uninstall">"You haven't installed Mitalk or your Mitalk version is too old, please update to the latest version."</string>
+  <string name="text_tip_miliao_version_low">Your current Mitalk version is too old. Please update to the latest version.</string>
+  <string name="text_toast_logintip">"You haven't logged in yet, please log in first!"</string>
+  <string name="text_update">Upgrade</string>
+  <string name="text_update_now">Upgrade now</string>
+  <string name="text_verifyapp_error">Invalid APK. Access denied.</string>
   <string name="ticket_description">参加%s获得</string>
-  <string name="ticket_detail_button_get">领取</string>
-  <string name="ticket_detail_get_text">已领取</string>
-  <string name="ticket_detail_overdue">已过期</string>
-  <string name="ticket_detail_tip">"温馨提示： 
-游戏礼券可以在游戏中抵扣现金"</string>
-  <string name="ticket_detail_title">游戏礼券详情</string>
-  <string name="ticket_empty_tip_text">&lt;font color=000000&gt;什么是游戏礼券?&lt;/font&gt;&lt;br&gt;&lt;font color=#99000000&gt;游戏礼券是游戏中心发放给米粉的抵扣券，可用于在小米游戏中心联运的网游中作为现金抵扣券进行消费&lt;/font&gt;</string>
-  <string name="ticket_expire_time">%s到期</string>
-  <string name="ticket_list_empty_loaderror">加载失败,请重试</string>
-  <string name="ticket_list_empty_networkerror">网络错误</string>
-  <string name="ticket_list_empty_text">您还没有游戏礼券</string>
+  <string name="ticket_detail_button_get">Get it</string>
+  <string name="ticket_detail_get_text">Active</string>
+  <string name="ticket_detail_overdue">Expired</string>
+  <string name="ticket_detail_tip">"Warm Tips： 
+Vouchers can be used as cash"</string>
+  <string name="ticket_detail_title">Voucher details</string>
+  <string name="ticket_empty_tip_text">&lt;font color=000000&gt;What is a game voucher?&lt;/font&gt;&lt;br&gt;&lt;font color=#99000000&gt;A game voucher is a kind of discount voucher distributed by Xiaomi Game center to Mi fans. They can be used as cash for purchases of eligible items in online mobile games on Xiaomi game center. &lt;/font&gt;</string>
+  <string name="ticket_expire_time">Expiry date:%s</string>
+  <string name="ticket_format_data">yyyy.MM.dd</string>
+  <string name="ticket_list_empty_loaderror">Failed to load, please try again</string>
+  <string name="ticket_list_empty_networkerror">Network error</string>
+  <string name="ticket_list_empty_text">"You don't have any vouchers"</string>
+  <string name="title_float_closedialog">Close</string>
+  <string name="title_game_id">Game ID</string>
+  <string name="title_gamecenter">Xiaomi Game Center</string>
   <string name="xmpp_server_addr"/>
 </resources>

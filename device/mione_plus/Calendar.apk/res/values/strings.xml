@@ -14,7 +14,7 @@
   <string name="accessibility_reminder_type">Reminder type</string>
   <string name="accessibility_remove_attendee">Remove attendee</string>
   <string name="accessibility_remove_reminder">Remove reminder</string>
-  <string name="accessibility_repeats">Repetition</string>
+  <string name="accessibility_repeats">Repeat</string>
   <string name="accessibility_sync_cal">Sync calendar</string>
   <string name="account_and_calendar">Account and calendar</string>
   <string name="account_and_calendar_to_display">Account and calendar to display</string>
@@ -107,13 +107,13 @@
   <string name="event_info_descrip">"Description: "</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Reminders</string>
-  <string name="event_info_repeat">"Repetition: "</string>
+  <string name="event_info_repeat">"Repeat: "</string>
   <string name="event_info_title">View event</string>
   <string name="event_info_title_invite">Meeting invitation</string>
   <string name="event_info_when">"When: "</string>
   <string name="event_info_where">"Where: "</string>
   <string name="event_lunar_month">月</string>
-  <string name="event_show_more">Show</string>
+  <string name="event_show_more">More options</string>
   <string name="event_view">View event</string>
   <string name="every_weekday">Every weekday (Mon–Fri)</string>
   <string name="exist_calendar">已订阅</string>
@@ -223,7 +223,7 @@
   <string name="quick_response_settings_title">Edit quick responses</string>
   <string name="refresh">刷新</string>
   <string name="reminders_label">Add reminder</string>
-  <string name="repeats_label">Repetition</string>
+  <string name="repeats_label">Repeat</string>
   <string name="response_maybe">Maybe</string>
   <string name="response_no">No</string>
   <string name="response_yes">Yes</string>

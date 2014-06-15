@@ -214,7 +214,7 @@
         <item>archive-and-delete</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Default</item>
+        <item>Recent</item>
         <item>Format</item>
         <item>Name</item>
         <item>Sender</item>

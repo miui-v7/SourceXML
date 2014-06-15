@@ -37,6 +37,8 @@
         <item>com.android.updater</item>
         <item>com.miui.backup</item>
         <item>com.miui.gallery</item>
+        <item>com.miui.player</item>
+        <item>com.android.fileexplorer</item>
     </string-array>
     <string-array name="carrier_name">
         <item>SmarToneVodafone</item>

@@ -37,16 +37,6 @@
         <item>Other</item>
         <item>Custom</item>
     </string-array>
-    <string-array name="mobile_operator_display_names">
-        <item>China Mobile</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
-        <item>China Telecom</item>
-        <item>China Unicom</item>
-        <item>China Mobile</item>
-        <item>China Telecom</item>
-    </string-array>
     <array name="preloaded_drawables">
         <item>@drawable/toast_frame_holo</item>
         <item>@drawable/btn_default_pressed_holo_light</item>
@@ -147,16 +137,6 @@
         <item>简体中文</item>
         <item>繁體中文</item>
     </string-array>
-    <string-array name="mobile_operator_numeric_values">
-        <item>46000</item>
-        <item>46001</item>
-        <item>46002</item>
-        <item>46003</item>
-        <item>46005</item>
-        <item>46006</item>
-        <item>46007</item>
-        <item>46009</item>
-    </string-array>
     <string-array name="config_statusBarIcons">
         <item>headset</item>
         <item>call_record</item>
@@ -195,9 +175,8 @@
         <item>mobile_supl,3,0,4,300000,true</item>
         <item>mobile_dun,4,0,4,300000,true</item>
         <item>bluetooth,7,7,3,-1,true</item>
-        <item>mobile_hipri,5,0,5,300000,false</item>
+        <item>mobile_hipri,5,0,5,300000,true</item>
         <item>ethernet,9,9,6,-1,true</item>
-        <item>wifi_p2p,13,1,0,-1,true</item>
         <item>mobile_dm,34,0,3,300000,true</item>
     </string-array>
     <integer-array name="config_protectedNetworks">

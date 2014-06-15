@@ -440,7 +440,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_touchafaec_entry_off">Off</string>
   <string name="pref_camera_touchafaec_entry_on">On</string>
   <string name="pref_camera_touchafaec_title">Touch AF/AEC</string>
-  <string name="pref_camera_ubi_focus_title">Ubi Focus</string>
+  <string name="pref_camera_ubi_focus_title">Refocus</string>
   <string name="pref_camera_video_duration_default">10</string>
   <string name="pref_camera_video_duration_entry_10">10 minutes</string>
   <string name="pref_camera_video_duration_entry_120">No limit</string>
@@ -595,7 +595,7 @@ touch the Shutter button"</string>
   <string name="simple_mode_button_text_hdr">Close HDR mode</string>
   <string name="simple_mode_button_text_panorama">Close panorama</string>
   <string name="simple_mode_button_text_slow_video">Close slow-motion camera</string>
-  <string name="simple_mode_button_text_ubi_focus">Close Ubi Focus mode</string>
+  <string name="simple_mode_button_text_ubi_focus">Close refocus mode</string>
   <string name="simple_mode_title">Simple mode</string>
   <string name="slideshow">Slideshow</string>
   <string name="snapshot_lower_than_video">Video snapshot resolution is lower than video size. Capping to Video size. Select a resolution higher or equal to the current video size.</string>
@@ -618,7 +618,7 @@ touch the Shutter button"</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"You need to set ISO 'auto'"</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
-  <string name="ubi_focus_exit_button_text">Exit Ubi Focus mode</string>
+  <string name="ubi_focus_exit_button_text">Exit refocus mode</string>
   <string name="undo">Undo</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Video camera</string>

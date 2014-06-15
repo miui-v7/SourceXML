@@ -87,12 +87,6 @@
         <item>SunCellular</item>
         <item>ACeS</item>
         <item>Red Mobile</item>
-        <item>Mobifone</item>
-        <item>Vinaphone</item>
-        <item>Viettel</item>
-        <item>Vietnamobile</item>
-        <item>Gmobile</item>
-        <item>EVNTelecom</item>
         <item>TIME3G</item>
         <item>TIME3G</item>
         <item>DiGi</item>
@@ -108,6 +102,26 @@
         <item>DiGi</item>
         <item>MY MAXIS</item>
         <item>MY CELCOM</item>
+        <item>ACeS</item>
+        <item>Indosat</item>
+        <item>AXIS</item>
+        <item>TELKOMSEL</item>
+        <item>XL</item>
+        <item>Indosat</item>
+        <item>3</item>
+        <item>TH 3G+</item>
+        <item>TH GSM</item>
+        <item>TOT 3G</item>
+        <item>dtac</item>
+        <item>ACeS</item>
+        <item>GSM 1800</item>
+        <item>TRUE</item>
+        <item>Mobifone</item>
+        <item>Vinaphone</item>
+        <item>Viettel</item>
+        <item>Vietnamobile</item>
+        <item>Gmobile</item>
+        <item>EVNTelecom</item>
         <item>Vodafone Haryana</item>
         <item>Airtel Delhi</item>
         <item>Airtel Punjab</item>
@@ -377,19 +391,6 @@
         <item>51505</item>
         <item>51511</item>
         <item>51518</item>
-        <item>52000</item>
-        <item>52001</item>
-        <item>52015</item>
-        <item>52018</item>
-        <item>52020</item>
-        <item>52023</item>
-        <item>52099</item>
-        <item>45201</item>
-        <item>45202</item>
-        <item>45204</item>
-        <item>45205</item>
-        <item>45207</item>
-        <item>45208</item>
         <item>50200</item>
         <item>50200</item>
         <item>50210</item>
@@ -405,6 +406,26 @@
         <item>50210</item>
         <item>50212</item>
         <item>50213</item>
+        <item>51000</item>
+        <item>51001</item>
+        <item>51008</item>
+        <item>51010</item>
+        <item>51011</item>
+        <item>51001</item>
+        <item>51089</item>
+        <item>52000</item>
+        <item>52001</item>
+        <item>52015</item>
+        <item>52018</item>
+        <item>52020</item>
+        <item>52023</item>
+        <item>52099</item>
+        <item>45201</item>
+        <item>45202</item>
+        <item>45204</item>
+        <item>45205</item>
+        <item>45207</item>
+        <item>45208</item>
         <item>40401</item>
         <item>404010</item>
         <item>40402</item>
@@ -517,7 +538,7 @@
         <item>40566</item>
         <item>40567</item>
         <item>40570</item>
-        <item>404010</item>
+        <item>40430</item>
         <item>405025</item>
         <item>405027</item>
         <item>405029</item>
@@ -674,19 +695,6 @@
         <item>51505</item>
         <item>51511</item>
         <item>51518</item>
-        <item>52000</item>
-        <item>52001</item>
-        <item>52015</item>
-        <item>52018</item>
-        <item>52020</item>
-        <item>52023</item>
-        <item>52099</item>
-        <item>45201</item>
-        <item>45202</item>
-        <item>45204</item>
-        <item>45205</item>
-        <item>45207</item>
-        <item>45208</item>
         <item>50200</item>
         <item>50201</item>
         <item>50210</item>
@@ -702,6 +710,26 @@
         <item>502146</item>
         <item>502147</item>
         <item>502148</item>
+        <item>51000</item>
+        <item>51001</item>
+        <item>51008</item>
+        <item>51010</item>
+        <item>51011</item>
+        <item>51021</item>
+        <item>51089</item>
+        <item>52000</item>
+        <item>52001</item>
+        <item>52015</item>
+        <item>52018</item>
+        <item>52020</item>
+        <item>52023</item>
+        <item>52099</item>
+        <item>45201</item>
+        <item>45202</item>
+        <item>45204</item>
+        <item>45205</item>
+        <item>45207</item>
+        <item>45208</item>
         <item>40401</item>
         <item>404010</item>
         <item>40402</item>
