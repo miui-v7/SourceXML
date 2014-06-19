@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth device is too far to unlock.</string>
   <string name="contact_carrier_message">Contact your mobile carrier if you have any additional questions.</string>
   <string name="emergency_call_string">Emergency</string>
   <string name="empty_password_error_msg">Password field should not be empty</string>

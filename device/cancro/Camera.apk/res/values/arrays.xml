@@ -94,6 +94,8 @@
         <item>@string/pref_camera_picturesize_entry_3264x1840</item>
         <item>@string/pref_camera_picturesize_entry_3264x1836</item>
         <item>@string/pref_camera_picturesize_entry_2592x1944</item>
+        <item>@string/pref_camera_picturesize_entry_2592x1936</item>
+        <item>@string/pref_camera_picturesize_entry_2592x1456</item>
         <item>@string/pref_camera_picturesize_entry_2048x1536</item>
         <item>@string/pref_camera_picturesize_entry_1920x1088</item>
         <item>@string/pref_camera_picturesize_entry_1920x1080</item>
@@ -116,6 +118,8 @@
         <item>3264x1840</item>
         <item>3264x1836</item>
         <item>2592x1944</item>
+        <item>2592x1936</item>
+        <item>2592x1456</item>
         <item>2048x1536</item>
         <item>1920x1088</item>
         <item>1920x1080</item>
@@ -218,7 +222,6 @@
         <item>@string/pref_camera_whitebalance_entry_fluorescent</item>
         <item>@string/pref_camera_whitebalance_entry_cloudy</item>
         <item>@string/pref_camera_whitebalance_entry_manual</item>
-        <item>@string/pref_camera_whitebalance_entry_measure</item>
     </string-array>
     <string-array name="pref_camera_whitebalance_entryvalues">
         <item>@string/pref_camera_whitebalance_entryvalue_auto</item>
@@ -227,7 +230,6 @@
         <item>@string/pref_camera_whitebalance_entryvalue_fluorescent</item>
         <item>@string/pref_camera_whitebalance_entryvalue_cloudy</item>
         <item>@string/pref_camera_whitebalance_entryvalue_manual</item>
-        <item>@string/pref_camera_whitebalance_entryvalue_measure</item>
     </string-array>
     <array name="camera_whitebalance_icons">
         <item>@drawable/bg_white_balance_auto</item>
@@ -236,7 +238,6 @@
         <item>@drawable/bg_white_balance_fluorescent</item>
         <item>@drawable/bg_white_balance_cloudy</item>
         <item>@drawable/bg_white_balance_manual</item>
-        <item>@drawable/bg_white_balance_measure</item>
     </array>
     <string-array name="pref_video_whitebalance_entries">
         <item>@string/pref_camera_whitebalance_entry_auto</item>

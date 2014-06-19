@@ -2962,6 +2962,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
   <string name="title_dolby_control">Dobly digital plus</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">Using</string>
   <string name="title_font_size">Font size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
   <string name="title_install_virus_no">Install monitor off</string>
@@ -3153,6 +3155,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
+  <string name="use_network_warning">Xiaomi Service Framework and Cloud Service require network connection</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_profile_item_summary">You can restrict access to apps and content from your account</string>
