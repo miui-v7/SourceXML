@@ -156,11 +156,8 @@
   <string name="id3_edit_failed">Failed to edit song information</string>
   <string name="id3_modify_confirm_check">Confirm changes</string>
   <string name="id3_modify_confirm_text">Save</string>
-  <string name="impunity_declaration">The online music you are about to listen to is from Baidu Online Music Service. Touch Confirm to accept the &lt;a href="http://music.baidu.com/doc/agreement"&gt;terms of use&lt;/a&gt;, may increase your data usage costs.</string>
-  <string name="impunity_declaration_ignore">Do not prompt</string>
-  <string name="impunity_declaration_settings">Every time notification when networking</string>
-  <string name="impunity_declaration_summary">When entering the music, there will popup to remind</string>
-  <string name="impunity_declaration_title">Declaration and Impunity</string>
+  <string name="impunity_declaration">The online music you are about to listen to is from Baidu Online Music Service. Touch Confirm to accept the &lt;a href="http://music.baidu.com/doc/agreement"&gt;terms of use&lt;/a&gt;</string>
+  <string name="impunity_declaration_title">Declaration</string>
   <string name="keep_quit_position_settings">Remember last screen</string>
   <string name="keep_quit_position_summary">Automatically go to the last screen you viewed when you open the Music app</string>
   <string name="ktv_alert_message">"Tap Use phone to add songs on the main page of the KTV's console to view the corresponding QR code"</string>
@@ -211,6 +208,8 @@
   <string name="modify_tracks_id3_background">Modify selected songs info in background</string>
   <string name="more">More</string>
   <string name="music_browser_label">Music</string>
+  <string name="music_filter">Filter files</string>
+  <string name="music_filter_helper">A filter has prevented these files from being displayed</string>
   <string name="music_not_loaded">Waiting for audio to load…</string>
   <string name="music_open_other_connect">Download music using mobile network</string>
   <string name="music_picker_title">Select track</string>
@@ -327,7 +326,6 @@
   <string name="sync_enable_toast">You can change this setting in Settings &gt; Accounts &gt; Mi Cloud</string>
   <string name="synchronize_playlist_setting">Sync playlist</string>
   <string name="synchronize_playlist_summary">Sync your playlist with Mi Cloud</string>
-  <string name="take_effect_afater_restart">The music must be restarted in order for the new setting to take effect</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">High</string>
   <string name="track_bit_rate_standard">Good</string>

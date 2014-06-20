@@ -2597,8 +2597,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
   <string name="title_dolby_control">Dobly digital plus</string>
-  <string name="title_font">Font</string>
-  <string name="title_font_current">Using</string>
   <string name="title_font_size">Font size</string>
   <string name="title_install_virus_no">Install monitor off</string>
   <string name="title_install_virus_yes">Install monitor on</string>
