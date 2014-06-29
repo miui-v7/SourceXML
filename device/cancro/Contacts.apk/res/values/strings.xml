@@ -202,6 +202,12 @@
   <string name="createContactShortcutSuccessful">Contact widget added to Home screen</string>
   <string name="create_group_dialog_title">Create new group</string>
   <string name="create_group_item_label">Create new group</string>
+  <string name="cta_notice_checkbox">"Don't show me this again"</string>
+  <string name="cta_notice_new_contact_message">Saving contacts under account \"%s\" will access network, agree?</string>
+  <string name="cta_notice_ok">Agree</string>
+  <string name="cta_notice_photo_message">Editing contacts photo with photo package will access network, agree?</string>
+  <string name="cta_notice_settings">Remind when accessing network</string>
+  <string name="cta_notice_title">Remind</string>
   <string name="customLabelPickerTitle">Custom label name</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
@@ -1142,6 +1148,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_menu_order">My orders</string>
   <string name="yellowpage_navigation_network_location_enable">Enable now</string>
   <string name="yellowpage_navigation_network_location_enable_later">Enable later</string>
+  <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Directory provides services according to your city and enabling WLAN &amp; mobile network location service can improve the quality of services.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Enable network location service</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>

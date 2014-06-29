@@ -4,6 +4,7 @@
   <string name="address">Address:</string>
   <string name="app_name">Barcode Scanner</string>
   <string name="birthday">Birthday:</string>
+  <string name="camera_error">Something wrong with camera, can not scan</string>
   <string name="close_flash_error">Fail to turn off the flash</string>
   <string name="company">Company:</string>
   <string name="copy">Copy</string>

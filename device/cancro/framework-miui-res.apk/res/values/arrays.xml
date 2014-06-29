@@ -109,12 +109,13 @@
         <item>XL</item>
         <item>Indosat</item>
         <item>3</item>
-        <item>TH 3G+</item>
-        <item>TH GSM</item>
+        <item>TRUE-H</item>
+        <item>AIS</item>
+        <item>AIS</item>
+        <item>TRUE-H</item>
+        <item>DTAC</item>
         <item>TOT 3G</item>
-        <item>dtac</item>
-        <item>ACeS</item>
-        <item>GSM 1800</item>
+        <item>DTAC</item>
         <item>TRUE</item>
         <item>Mobifone</item>
         <item>Vinaphone</item>
@@ -415,10 +416,11 @@
         <item>51089</item>
         <item>52000</item>
         <item>52001</item>
+        <item>52001</item>
+        <item>52000</item>
+        <item>52005</item>
         <item>52015</item>
-        <item>52018</item>
-        <item>52020</item>
-        <item>52023</item>
+        <item>52005</item>
         <item>52099</item>
         <item>45201</item>
         <item>45202</item>
@@ -719,10 +721,11 @@
         <item>51089</item>
         <item>52000</item>
         <item>52001</item>
+        <item>52003</item>
+        <item>52004</item>
+        <item>52005</item>
         <item>52015</item>
         <item>52018</item>
-        <item>52020</item>
-        <item>52023</item>
         <item>52099</item>
         <item>45201</item>
         <item>45202</item>

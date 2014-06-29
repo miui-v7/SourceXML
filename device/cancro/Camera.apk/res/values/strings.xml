@@ -38,6 +38,7 @@
   <string name="cancel">Cancel</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone."</string>
+  <string name="cannot_move_warning_message">Taking picture, do not move the device</string>
   <string name="clear_effects">Clear effects</string>
   <string name="close">Close</string>
   <string name="cloud_album_details">Cloud album details:</string>
@@ -197,6 +198,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_antibanding_title">Anti banding</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_audioencoder_default">aac</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto capturing when stable</string>
   <string name="pref_camera_auto_chroma_flash_title">Auto Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Off</string>
   <string name="pref_camera_auto_focus_title_entry_on">On</string>
@@ -213,7 +215,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_coloreffect_entry_brannan">Dawn</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Autumn</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
-  <string name="pref_camera_coloreffect_entry_gaussianblur">Gaussian blur</string>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Blur</string>
   <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
   <string name="pref_camera_coloreffect_entry_mirror">Mirror</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
@@ -620,6 +622,7 @@ touch the Shutter button"</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
   <string name="ubi_focus_exit_button_text">Exit refocus mode</string>
+  <string name="ubifocus_capture_warning_message">It is better when the preview screen contains both near (less than one meter from the lens) and far objects</string>
   <string name="undo">Undo</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Video camera</string>

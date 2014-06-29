@@ -28,6 +28,11 @@
   <string name="checking_new_version">正在检查更新</string>
   <string name="choose_type">筛选</string>
   <string name="contactwithmerchant">联系商家</string>
+  <string name="cta_cancel">退出</string>
+  <string name="cta_confirm">同意并继续</string>
+  <string name="cta_dialog_content">为了推荐适合您的生活服务，小米生活需要联网和使用地理位置信息。您是否同意？</string>
+  <string name="cta_dialog_title">欢迎使用小米生活!</string>
+  <string name="cta_not_show_again">不再提示</string>
   <string name="deadline">使用期限:%1$s至%2$s</string>
   <string name="extend">展开密码</string>
   <string name="feedback_contact">联系方式</string>
@@ -154,6 +159,7 @@
   <string name="shrink">收起密码</string>
   <string name="source">来源站点:%1$s</string>
   <string name="source_all">本次团购内容由%1$s提供，消费时请告知店员使用%1$s团购券。</string>
+  <string name="top_item_tips">选座</string>
   <string name="total_passbook">共%1$s张</string>
   <string name="update_status_failed">检查更新与服务器通讯失败</string>
   <string name="update_status_local_app_failed">获取本地安装应用信息失败</string>

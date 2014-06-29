@@ -22,7 +22,6 @@
   <string name="airkan_video_playing">播放</string>
   <string name="airkan_video_playing_in">视频正在</string>
   <string name="alert_ignore">Do not show this page again</string>
-  <string name="all">All</string>
   <string name="all_reviews">Comments</string>
   <string name="all_specials">Featured</string>
   <string name="alreadyselected">Selected</string>
@@ -161,6 +160,7 @@
   <string name="in_download_notification">%d videos are in caching</string>
   <string name="in_pause">Paused</string>
   <string name="in_waiting">Waiting</string>
+  <string name="info_title">information</string>
   <string name="install_comfirm">click to install</string>
   <string name="jni_invalid_param">Parameters invalid</string>
   <string name="jni_no_media_source">No media source</string>
@@ -283,8 +283,10 @@
   <string name="play_length_colon">"Length: "</string>
   <string name="play_setting">Playback</string>
   <string name="playvideo">Play</string>
+  <string name="post_playcount">times</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="prex_playcount">play:</string>
   <string name="publish">Submit</string>
   <string name="qiyi">iQiyi</string>
   <string name="quarter_bell_alert_button_cancel">cancel</string>
@@ -355,7 +357,6 @@
   <string name="upgrade">Upgrade</string>
   <string name="use_cellular_network">use cellular network</string>
   <string name="use_cellular_network_summary">use cellular network to download videos, this will cause the traffic cost.</string>
-  <string name="variety">综艺</string>
   <string name="video">Video</string>
   <string name="video_info_audio_bitrate_label">"音频采样率    :"</string>
   <string name="video_info_audio_coding_label">音频编码格式:</string>

@@ -646,6 +646,12 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="crypt_keeper_unplugged_text">Plug in your charger and try again.</string>
   <string name="cryptkeeper_emergency_call">Emergency call</string>
   <string name="cryptkeeper_return_to_call">Return to call</string>
+  <string name="cta_button_text_agree">同意</string>
+  <string name="cta_button_text_cancel">取消</string>
+  <string name="cta_checkbox_title">不再提示</string>
+  <string name="cta_dialog_msg">您将使用小米公司的安全中心服务，为了保证功能的正常使用以及相关病毒库能够得到及时的更新，在使用过程中需要联网，您是否同意？</string>
+  <string name="cta_dialog_title">声明和条款</string>
+  <string name="cta_settings">允许联网</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Default</string>
   <string name="custom_mark_category">Custom</string>
@@ -2060,6 +2066,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
+  <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
@@ -2597,6 +2604,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
   <string name="title_dolby_control">Dobly digital plus</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">Using</string>
   <string name="title_font_size">Font size</string>
   <string name="title_install_virus_no">Install monitor off</string>
   <string name="title_install_virus_yes">Install monitor on</string>
