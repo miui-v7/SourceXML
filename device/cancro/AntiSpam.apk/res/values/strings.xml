@@ -56,6 +56,7 @@
   <string name="bl_no_block_sms">No blocked messages</string>
   <string name="blacklist_prefix_add_hint">Block all numbers that begin with this prefix</string>
   <string name="block_message_number">Messages: %d</string>
+  <string name="block_phm_number">%d</string>
   <string name="block_phone_number">Calls: %d</string>
   <string name="call_delete_hint">Delete all blocked calls from selected number?</string>
   <string name="cancle">Cancel</string>
@@ -153,7 +154,7 @@
   <string name="st_antispam_delete">Delete</string>
   <string name="st_antispam_des_anti">Block</string>
   <string name="st_antispam_des_permit">Allow</string>
-  <string name="st_antispam_des_permit_nokeyword">Allow (except keywords)</string>
+  <string name="st_antispam_des_permit_nokeyword">Allow</string>
   <string name="st_antispam_des_smart_anti">Filter</string>
   <string name="st_antispam_des_uesless">Disabled</string>
   <string name="st_antispam_mode_add_new">Add rules</string>
@@ -175,8 +176,8 @@
   <string name="st_antispam_mode_smart_state">1111110</string>
   <string name="st_antispam_mode_smart_sum">"Block numbers you've added manually and block numbers that have been reported by other users"</string>
   <string name="st_antispam_notification_sum">Show notification when call or message is blocked</string>
-  <string name="st_antispam_title_anoy_incoming">Calls from unknown numbers</string>
-  <string name="st_antispam_title_anoy_sms">Messages from unknown numbers</string>
+  <string name="st_antispam_title_anoy_incoming">Calls from strangers</string>
+  <string name="st_antispam_title_anoy_sms">Messages from strangers</string>
   <string name="st_antispam_title_contact_incoming">Calls from Contacts</string>
   <string name="st_antispam_title_contact_sms">Messages from Contacts</string>
   <string name="st_antispam_title_contactandanoy_group">Settings</string>

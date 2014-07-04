@@ -183,6 +183,7 @@
   <string name="empty_bookmarks_folder">No bookmarks</string>
   <string name="empty_history">No history.</string>
   <string name="empty_snapshots_folder">No saved pages.</string>
+  <string name="enter_developer_mode">Enter developer mode</string>
   <string name="error_console_eval_button_text">Evaluate</string>
   <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript console</string>

@@ -53,7 +53,9 @@ You can also temporarily magnify what's under your finger by triple-tapping and 
 Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
   <string name="accessibility_screen_magnification_title">Magnification gestures</string>
   <string name="accessibility_service_default_description">No description provided.</string>
+  <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_message">TalkBack provides spoken feedback to help blind and low-vision users. Do you want to install it for free from Android Market?</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack provides spoken feedback to help visually impaired users. Get this service for free from the Google Play Store.</string>
   <string name="accessibility_service_no_apps_title">Need a screen reader?</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_settings">Accessibility</string>
@@ -382,7 +384,7 @@ Enable floating windows?"</string>
   <string name="bluetooth_connection_notif_message">Touch to connect to \"%1$s\".</string>
   <string name="bluetooth_connection_permission_request">Bluetooth connection request</string>
   <string name="bluetooth_device">Unnamed Bluetooth device</string>
-  <string name="bluetooth_device_address">Device address:</string>
+  <string name="bluetooth_device_address">Address:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Allow incoming file transfers</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Connect to Bluetooth device</string>
   <string name="bluetooth_device_advanced_online_mode_title">Connect</string>
@@ -396,7 +398,7 @@ Enable floating windows?"</string>
   <string name="bluetooth_device_context_pair_connect">Pair &amp; connect</string>
   <string name="bluetooth_device_context_unpair">Unpair</string>
   <string name="bluetooth_device_details">Device settings</string>
-  <string name="bluetooth_device_name">Device name:</string>
+  <string name="bluetooth_device_name">Name:</string>
   <string name="bluetooth_device_searchable">Discoverable</string>
   <string name="bluetooth_devices">Bluetooth devices</string>
   <string name="bluetooth_disable_profile_message">This will disable:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
@@ -469,6 +471,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_permission_request">Bluetooth permission request</string>
   <string name="bluetooth_phonebook_request">Phone book access request</string>
   <string name="bluetooth_pin_values_hint">Usually 0000 or 1234</string>
+  <string name="bluetooth_preference_connected_devices">Connected devices</string>
   <string name="bluetooth_preference_device_settings">Device settings</string>
   <string name="bluetooth_preference_found_devices">Available devices</string>
   <string name="bluetooth_preference_paired_devices">Paired devices</string>
@@ -508,16 +511,16 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
   <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">Add device</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">The old matched device will be replaced with the new one, are you sure to continue?</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Old device will be replaced with current device.</string>
   <string name="bluetooth_unlock_change_matched_device">Choose other device</string>
-  <string name="bluetooth_unlock_confirm_device_text">Please clap the device to confirm</string>
+  <string name="bluetooth_unlock_confirm_device_text">Touch devices together to unlock.</string>
   <string name="bluetooth_unlock_delete_device">Delete this device</string>
-  <string name="bluetooth_unlock_delete_device_confirm_msg">Are you sure to delete this device？</string>
-  <string name="bluetooth_unlock_device_matched_text">Use this device to unlock keyguard</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Delete this device?</string>
+  <string name="bluetooth_unlock_device_matched_text">Use this device to unlock.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">No device available yet</string>
   <string name="bluetooth_unlock_settings_devices_title">Device</string>
   <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>
-  <string name="bluetooth_unlock_settings_unlock_device">Unlock keyguard</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Unlock device</string>
   <string name="bluetooth_unlock_title">Unlock by bluetooth device</string>
   <string name="bluetooth_unlock_turned_off">Turned off</string>
   <string name="bluetooth_unlock_turned_on">Turned on</string>
@@ -693,7 +696,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="credentials_install_summary">Install certificates from storage</string>
   <string name="credentials_not_erased">"Credential storage couldn't be erased."</string>
   <string name="credentials_old_password">Current password:</string>
-  <string name="credentials_password_too_short">The password must have at least 8 characters.</string>
+  <string name="credentials_password_too_short">Enter password</string>
   <string name="credentials_reset">Clear credentials</string>
   <string name="credentials_reset_hint">Remove all the contents?</string>
   <string name="credentials_reset_summary">Remove all certificates</string>
@@ -728,6 +731,12 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="crypt_keeper_unplugged_text">Plug in your charger and try again.</string>
   <string name="cryptkeeper_emergency_call">Emergency call</string>
   <string name="cryptkeeper_return_to_call">Return to call</string>
+  <string name="cta_button_text_agree">同意</string>
+  <string name="cta_button_text_cancel">取消</string>
+  <string name="cta_checkbox_title">不再提示</string>
+  <string name="cta_dialog_msg">您将使用小米公司的安全中心服务，为了保证功能的正常使用以及相关病毒库能够得到及时的更新，在使用过程中需要联网，您是否同意？</string>
+  <string name="cta_dialog_title">声明和条款</string>
+  <string name="cta_settings">允许联网</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Default</string>
   <string name="current_use_ese">Using embedded secure element</string>
@@ -1141,7 +1150,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="free_ram">Memory</string>
-  <string name="free_wifi_confirm">I know</string>
+  <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
   <string name="free_wifi_connect_dialog_title">WLAN available</string>
@@ -1440,7 +1449,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
   <string name="local_backup_section_summary">Backup system settings, account and apps</string>
-  <string name="local_backup_section_title">ocal backups</string>
+  <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Default</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
   <string name="location_access_title">Access to my location</string>
@@ -1470,7 +1479,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="location_title">My Location</string>
   <string name="lock_after_timeout">Automatically lock</string>
   <string name="lock_after_timeout_summary">%1$s after sleep</string>
-  <string name="lock_intro_message">lock_intro_message</string>
+  <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
   <string name="lock_settings_common_title">Lock settings</string>
@@ -2312,6 +2321,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
+  <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
@@ -3155,7 +3165,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
-  <string name="use_network_warning">Xiaomi Service Framework and Cloud Service require network connection</string>
+  <string name="use_network_warning">You need an internet connection to set up and sync your Mi Account</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_profile_item_summary">You can restrict access to apps and content from your account</string>
@@ -3689,16 +3699,16 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_suspend_optimizations">WLAN optimization</string>
   <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
   <string name="wifi_tether_checkbox_text">Portable hotspot</string>
-  <string name="wifi_tether_configure_ap_text">Set up portable hotspot.</string>
+  <string name="wifi_tether_configure_ap_text">Set up portable hotspot</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s%2$s portable hotspot.</string>
   <string name="wifi_tether_enabled_subtext">Portable hotspot %1$s active</string>
-  <string name="wifi_tether_failed_subtext">Portable hotspot error.</string>
+  <string name="wifi_tether_failed_subtext">Portable hotspot error</string>
   <string name="wifi_tether_setting_title">Basic settings</string>
   <string name="wifi_tether_starting">Turning hotspot on…</string>
   <string name="wifi_tether_stopping">Turning off hotspot…</string>
   <string name="wifi_type_approval"/>
-  <string name="wifi_type_approval_title">Type Approval</string>
+  <string name="wifi_type_approval_title">Approval type</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
   <string name="wifi_update">Refresh stats</string>

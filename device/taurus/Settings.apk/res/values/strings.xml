@@ -1039,7 +1039,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="free_ram">Memory</string>
-  <string name="free_wifi_confirm">I know</string>
+  <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
   <string name="free_wifi_connect_dialog_title">WLAN available</string>
@@ -1299,7 +1299,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
   <string name="local_backup_section_summary">Backup system settings, account and apps</string>
-  <string name="local_backup_section_title">ocal backups</string>
+  <string name="local_backup_section_title">Local backups</string>
   <string name="location_gps">GPS satellites</string>
   <string name="location_neighborhood_level">Let apps use data from WLAN and mobile networks to estimate your location</string>
   <string name="location_neighborhood_level_wifi">Location determined by WLAN</string>
@@ -2084,7 +2084,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
   <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
   <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
-  <string name="preferred_app_settings">Default application Settings</string>
+  <string name="preferred_app_settings">Default app settings</string>
   <string name="preferred_app_settings_default">Default</string>
   <string name="preferred_app_settings_reset">Restore default apps?</string>
   <string name="preferred_app_settings_reset_message">All default apps will be restored to MIUI presets.</string>

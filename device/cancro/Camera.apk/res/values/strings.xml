@@ -621,6 +621,7 @@ touch the Shutter button"</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"You need to set ISO 'auto'"</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
+  <string name="ubi_focus_capture_fail">Capture fail, please try again</string>
   <string name="ubi_focus_exit_button_text">Exit refocus mode</string>
   <string name="ubifocus_capture_warning_message">It is better when the preview screen contains both near (less than one meter from the lens) and far objects</string>
   <string name="undo">Undo</string>

@@ -53,9 +53,9 @@ You can also temporarily magnify what's under your finger by triple-tapping and 
 Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
   <string name="accessibility_screen_magnification_title">Magnification gestures</string>
   <string name="accessibility_service_default_description">No description provided.</string>
-  <string name="accessibility_service_no_apps_confirm">I know</string>
+  <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_message">TalkBack provides spoken feedback to help blind and low-vision users. Do you want to install it for free from Android Market?</string>
-  <string name="accessibility_service_no_apps_prompt">TalkBack provides spoken feedback to help blind and low-vision users. Get this service for free from the Google Play Store.</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack provides spoken feedback to help visually impaired users. Get this service for free from the Google Play Store.</string>
   <string name="accessibility_service_no_apps_title">Need a screen reader?</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_settings">Accessibility</string>
@@ -471,6 +471,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_permission_request">Bluetooth permission request</string>
   <string name="bluetooth_phonebook_request">Phone book access request</string>
   <string name="bluetooth_pin_values_hint">Usually 0000 or 1234</string>
+  <string name="bluetooth_preference_connected_devices">Connected devices</string>
   <string name="bluetooth_preference_device_settings">Device settings</string>
   <string name="bluetooth_preference_found_devices">Available devices</string>
   <string name="bluetooth_preference_paired_devices">Paired devices</string>
@@ -510,9 +511,9 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
   <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">Add device</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">Target device will be replaced with current device.</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Old device will be replaced with current device.</string>
   <string name="bluetooth_unlock_change_matched_device">Choose other device</string>
-  <string name="bluetooth_unlock_confirm_device_text">Touch devices together to confirm.</string>
+  <string name="bluetooth_unlock_confirm_device_text">Touch devices together to unlock.</string>
   <string name="bluetooth_unlock_delete_device">Delete this device</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Delete this device?</string>
   <string name="bluetooth_unlock_device_matched_text">Use this device to unlock.</string>
@@ -1149,7 +1150,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="free_ram">Memory</string>
-  <string name="free_wifi_confirm">I know</string>
+  <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
   <string name="free_wifi_connect_dialog_title">WLAN available</string>
@@ -1478,7 +1479,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="location_title">My Location</string>
   <string name="lock_after_timeout">Automatically lock</string>
   <string name="lock_after_timeout_summary">%1$s after sleep</string>
-  <string name="lock_intro_message">Lock intro_message</string>
+  <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
   <string name="lock_settings_common_title">Lock settings</string>

@@ -174,6 +174,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_license_net_prompt_title">Internet connection required</string>
   <string name="mibi_license_title">Terms and conditions</string>
   <string name="mili_center">MiCredit</string>
+  <string name="mipay_error">Mipay failed</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Top-up failed</string>
   <string name="msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
@@ -230,6 +231,7 @@ Please contact Xiaomi customer service."</string>
   <string name="progress_error_recharge_summary">Top-up failed, please retry later.</string>
   <string name="progress_error_recharge_title">Top-up failed</string>
   <string name="progress_loading">Processing…</string>
+  <string name="progress_mipay_creating">Generating order…</string>
   <string name="progress_msg_creating">Generating top-up order…</string>
   <string name="progress_paytool_creating">Generating %1$s order…</string>
   <string name="progress_paytool_installing">Installing %1$s mobile security plugin…</string>
@@ -243,11 +245,9 @@ Please contact Xiaomi customer service."</string>
   <string name="progress_success_recharge_summary">Account balance: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit top-up complete</string>
   <string name="progress_voucher_creating">Topping up MiCredit card…</string>
-  <string name="progress_warning_check">"Payment hasn't reached your account yet. 
-We will check again within two working days."</string>
-  <string name="progress_warning_contact_server">"Payment still hasn't reached your account. 
-1. Please contact our Shenzhou customer service center：%1$s 
-2. When prompted, provide the serial number: %2$s."</string>
+  <string name="progress_warning_check_with_contact">"Payment hasn't reached your account yet. 
+We will check again within two working days.
+Customer service center：400-100-5678"</string>
   <string name="progress_warning_waiting">"Payment hasn't reached your account yet."</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Bank card</string>
