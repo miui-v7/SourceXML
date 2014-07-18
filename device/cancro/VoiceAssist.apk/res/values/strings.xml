@@ -76,14 +76,14 @@
   <string name="calendaring">已添加到日程表，点击查看</string>
   <string name="calendaring_cancel">您取消了该提醒</string>
   <string name="calling">正在拨号 %1$s %2$s</string>
-  <string name="cancel">取消</string>
+  <string name="cancel">Cancel</string>
   <string name="channel_not_support">暂时不支持该搜索引擎</string>
   <string name="china">中国</string>
   <string name="china_date">农历 %1$s年%2$s月%3$s</string>
   <string name="chooser">Please choose</string>
   <string name="click_download">点击下载</string>
   <string name="clocking">已添加闹钟，点击查看</string>
-  <string name="confirm">确定</string>
+  <string name="confirm">OK</string>
   <string name="confirm_cancel">确定还是取消</string>
   <string name="contact_menu_1">语音呼叫</string>
   <string name="contact_menu_2">IP呼叫</string>

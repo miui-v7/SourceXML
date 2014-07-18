@@ -287,6 +287,8 @@
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="prex_playcount">play:</string>
+  <string name="priority_storage">Priority use external SD card</string>
+  <string name="priority_storage_summary">When using an external SD card, this function takes effect</string>
   <string name="publish">Submit</string>
   <string name="qiyi">iQiyi</string>
   <string name="quarter_bell_alert_button_cancel">cancel</string>
