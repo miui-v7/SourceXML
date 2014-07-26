@@ -141,7 +141,11 @@
   <string name="feedback_submit">Send feedback</string>
   <string name="festival">Quick responses</string>
   <string name="fetion_prefix">[Fetion]</string>
+  <string name="file_create_time">Time created:</string>
   <string name="file_share_message_description">I want to share some files with you.</string>
+  <string name="file_size">Size:</string>
+  <string name="file_title">Name:</string>
+  <string name="file_width_height">Size:</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">Forward from:</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -370,6 +374,7 @@
   <string name="service_not_activated">Service not activated on network</string>
   <string name="set">Set</string>
   <string name="set_smsc_address_title_miui">Set SMS center number</string>
+  <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>
   <string name="sim_card1">SIM card 1</string>
   <string name="sim_card2">SIM card 2</string>

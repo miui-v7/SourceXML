@@ -469,6 +469,7 @@
   <string name="fdn_contact_added">Fixed dialing number added.</string>
   <string name="fdn_contact_deleted">Fixed dialing number deleted.</string>
   <string name="fdn_contact_updated">Fixed dialing number updated.</string>
+  <string name="fdn_contacts_empty_miui">No contacts in FDN list.</string>
   <string name="fdn_disabled">Fixed Dialing Numbers are disabled</string>
   <string name="fdn_disabled_miui">FDNs disabled</string>
   <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 Blocked. Please change PIN2 and retry!</string>
@@ -548,6 +549,7 @@ Switch to the new provider anyway?"</string>
   <string name="ip_prefix_required_miui">IP prefix is required</string>
   <string name="ip_prefix_sum_miui">"Carrier's IP prefix: %s"</string>
   <string name="ivr_menu_dialing_msg">Forwarding…</string>
+  <string name="ivr_menu_dialing_msg_no_mute">Transferring to selected service (ignore the error messages)…</string>
   <string name="ivr_menu_list_sub_menu_count_format">Press %s</string>
   <string name="ivr_menu_list_title">Voice menu</string>
   <string name="jituan_number_format_error_message_miui">%s only supports numbers and wildcards</string>
