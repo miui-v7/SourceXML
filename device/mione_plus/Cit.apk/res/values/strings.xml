@@ -69,6 +69,9 @@
   <string name="APKTOOL_DUMMY_0131">false</string>
   <string name="APKTOOL_DUMMY_0132">false</string>
   <string name="APKTOOL_DUMMY_0133">false</string>
+  <string name="APKTOOL_DUMMY_0134">false</string>
+  <string name="APKTOOL_DUMMY_0135">false</string>
+  <string name="APKTOOL_DUMMY_0136">false</string>
   <string name="cit_OTG_plugin_check_summary">该测试将会检测OTG设备插入状态</string>
   <string name="cit_OTG_plugin_check_title">OTG插入测试</string>
   <string name="cit_OTG_plugout_check_summary">该测试将会检测OTG设备拔出状态</string>

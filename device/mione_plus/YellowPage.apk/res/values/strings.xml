@@ -85,7 +85,7 @@
   <string name="express_confirm_dest_city_prefix">Destination:</string>
   <string name="express_contact_address">Enter your address</string>
   <string name="express_contact_address_finding">Locating…</string>
-  <string name="express_contact_label">Your information</string>
+  <string name="express_contact_label">Information for Package Pickup service</string>
   <string name="express_contact_phone">Enter your phone number</string>
   <string name="express_contact_phone_finding">Getting phone number…</string>
   <string name="express_contact_prefix">"Contact "</string>
@@ -150,6 +150,7 @@ Custom service will contact you in a moment"</string>
   <string name="express_select_city">Select city</string>
   <string name="express_select_sender">From</string>
   <string name="express_send">Ship</string>
+  <string name="express_send_notice">About prohibited items</string>
   <string name="express_sender">Sender</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>
@@ -281,11 +282,11 @@ Total amount: RMB %3$s"</string>
   <string name="service_unavailiable">Service unavailable</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
-  <string name="sina_share_fail">Failed to send</string>
+  <string name="sina_share_fail">"Couldn't send"</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account has expired. You need to sign in again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid. You need to sign in again.</string>
   <string name="smart_antispam">Identify unknown numbers</string>
   <string name="toast_finish_delete_call_log">Call log deleted</string>
   <string name="toast_text_copied">Text copied</string>

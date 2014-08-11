@@ -80,6 +80,7 @@
   <string name="app_name">Mi Cloud framework</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="bank_cards">Bank cards</string>
+  <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
   <string name="bind_sina_weibo">Bind with Weibo</string>
   <string name="bind_weibo_description">Sync your friends from Sina Weibo.</string>
   <string name="binded">Bound</string>
@@ -204,6 +205,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">"Passwords don't match"</string>
   <string name="micloud_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
+  <string name="micloud_proceed">Continue</string>
   <string name="micloud_reg_new">Create an account</string>
   <string name="micloud_resend_active_email">Resend activation email</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>

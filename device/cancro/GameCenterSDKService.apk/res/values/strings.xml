@@ -92,10 +92,14 @@ Please input your password"</string>
   <string name="account_user_agreement_p4">Privacy policy</string>
   <string name="account_user_agreement_p5">"By signing up, you are agreeing to
  the "</string>
-  <string name="app_name">Xiaomi Service Security Plugin</string>
+  <string name="app_name">MI Service Security Framework</string>
   <string name="btn_account_begingame">Enter</string>
   <string name="btn_cancel">Cancel</string>
   <string name="btn_ok">OK</string>
+  <string name="choose_account_login_micloud">%s(MiCloud)</string>
+  <string name="choose_account_login_mitalk">%s(MiTalk)</string>
+  <string name="choose_account_to_login">Select MI account</string>
+  <string name="choose_account_to_login_des">We detected you have logined accounts.Please choose which account you want to login in.</string>
   <string name="create_account_txt">My game ID</string>
   <string name="delete">Delete</string>
   <string name="deprecated_10"/>
@@ -143,7 +147,7 @@ Please input your password"</string>
   <string name="deprecated_8"/>
   <string name="deprecated_9"/>
   <string name="deputy_no_accountinfo">No information about alternative account retrieved</string>
-  <string name="error_code_authentication_error">Xiaomi account error. Please check</string>
+  <string name="error_code_authentication_error">MI account error. Please check</string>
   <string name="error_code_canceled">Payment request has been cancelled</string>
   <string name="error_code_duplicate_purchase">Operation too frequent. No need to click again.</string>
   <string name="error_code_exception">Error... try again?</string>
@@ -320,7 +324,7 @@ Please input your password"</string>
   <string name="login_tip_error11">Failed to log in to your account. Error code[9]，please try again</string>
   <string name="login_tip_error12">Failed to log in to your account. Error code[7-%s],please try again</string>
   <string name="login_tip_error13">Failed to log in to your account. Error code[10]，please try again</string>
-  <string name="login_tip_error2">You have cancelled log-in . Please log in to your Xiaomi account first</string>
+  <string name="login_tip_error2">You have cancelled log-in . Please log in to your MI account first</string>
   <string name="login_tip_error3">Login error. Error code[1]，Please log in to your account first</string>
   <string name="login_tip_error4">Failed to retrieve your account info.. Error code[2]，please log in again</string>
   <string name="login_tip_error5">Failed to log in to your account. Error code[3]，please try again</string>
@@ -482,6 +486,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_login">Login</string>
   <string name="mibi_memu_refresh">Refresh</string>
   <string name="mibi_mili_center">MiCredit</string>
+  <string name="mibi_mipay_error">"Couldn't pay"</string>
   <string name="mibi_msg_denomination_type">MiCredit</string>
   <string name="mibi_msg_error">Top-up failed</string>
   <string name="mibi_msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
@@ -510,11 +515,13 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_paytool_alipay">Alipay</string>
   <string name="mibi_paytool_error_msp">%1$s failed</string>
   <string name="mibi_paytool_tenpay">Tenpay</string>
+  <string name="mibi_prepaid_card_order_info">%1$s top-up card: RMB %2$s</string>
   <string name="mibi_prepaid_edit_limit">digits</string>
   <string name="mibi_prepaid_error_card_length">Invalid card number or password.</string>
   <string name="mibi_prepaid_error_card_number">Card number invalid.</string>
   <string name="mibi_prepaid_error_carrier">Select carrier</string>
   <string name="mibi_prepaid_error_denomination">Select amount</string>
+  <string name="mibi_prepaid_error_not_choose_carrier">No carrier selected.</string>
   <string name="mibi_prepaid_error_password">Card password invalid.</string>
   <string name="mibi_prepaid_grid_carrier_hint">Select carrier</string>
   <string name="mibi_prepaid_grid_denomination_hint">Select amount</string>
@@ -534,6 +541,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_progress_error_recharge_summary">Top-up failed, please retry later.</string>
   <string name="mibi_progress_error_recharge_title">Top-up failed</string>
   <string name="mibi_progress_loading">Processing…</string>
+  <string name="mibi_progress_mipay_creating">Creating order…</string>
   <string name="mibi_progress_msg_creating">Generating top-up order…</string>
   <string name="mibi_progress_paytool_creating">Generating %1$s order…</string>
   <string name="mibi_progress_prepaid_creating">Generating order…</string>
@@ -546,11 +554,9 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_progress_success_recharge_summary">Account balance: %1$s MiCredits.</string>
   <string name="mibi_progress_success_recharge_title">%1$s MiCredit top-up complete</string>
   <string name="mibi_progress_voucher_creating">Topping up MiCredit card…</string>
-  <string name="mibi_progress_warning_check">"Payment hasn't reached your account yet. 
-We will check again within two working days."</string>
-  <string name="mibi_progress_warning_contact_server">"Payment still hasn't reached your account. 
-1. Please contact our Shenzhou customer service center：%1$s 
-2. When prompted, provide the serial number: %2$s."</string>
+  <string name="mibi_progress_warning_check_with_contact">"Payment hasn't reached your account yet. 
+We will check again within two working days.
+Customer service center：400-100-5678"</string>
   <string name="mibi_progress_warning_waiting">"Payment hasn't reached your account yet."</string>
   <string name="mibi_recharge_alipay_title">Alipay</string>
   <string name="mibi_recharge_bankcall_title">Bank card</string>
@@ -617,7 +623,7 @@ We will check again within two working days."</string>
   <string name="order_detail_order_name">Item: &lt;font color=#787878&gt;%s&lt;/font&gt;</string>
   <string name="order_detail_title">Order details</string>
   <string name="order_list_empty_text">No history</string>
-  <string name="pay_ali_msg">%1$sTop up%2$s RMB,Xiaomi ID%3$s</string>
+  <string name="pay_ali_msg">%1$sTop up%2$s RMB,MI ID%3$s</string>
   <string name="pay_ali_msg2">%1$s(a worth of%2$sRMB),XiaomiID%3$s</string>
   <string name="pay_ali_tipmsg6">Operation too frequent, please try again later</string>
   <string name="pay_card_txt25">Not enough balance on your top-up card. %s RMB has been transferred into your MiCredit account, please check your account</string>
@@ -655,7 +661,7 @@ We will check again within two working days."</string>
   <string name="text_login_tip">Login tips</string>
   <string name="text_message_tiptext">Do not show again</string>
   <string name="text_mibi">MiCredit</string>
-  <string name="text_miid">Xiaomi ID：</string>
+  <string name="text_miid">MI ID：</string>
   <string name="text_minutes_ago">minute(s) ago</string>
   <string name="text_modify_account_failed">Failed to update your account name</string>
   <string name="text_modify_account_name">Updating account name</string>
@@ -680,7 +686,7 @@ We will check again within two working days."</string>
   <string name="ticket_detail_tip">"Warm Tips： 
 Vouchers can be used as cash"</string>
   <string name="ticket_detail_title">Voucher details</string>
-  <string name="ticket_empty_tip_text">&lt;font color=000000&gt;What is a game voucher?&lt;/font&gt;&lt;br&gt;&lt;font color=#99000000&gt;A game voucher is a kind of discount voucher distributed by Xiaomi Game center to Mi fans. They can be used as cash for purchases of eligible items in online mobile games on Xiaomi game center. &lt;/font&gt;</string>
+  <string name="ticket_empty_tip_text">&lt;font color=000000&gt;What is a game voucher?&lt;/font&gt;&lt;br&gt;&lt;font color=#99000000&gt;A game voucher is a kind of discount voucher distributed by MI Game center to Mi fans. They can be used as cash for purchases of eligible items in online mobile games on MI game center. &lt;/font&gt;</string>
   <string name="ticket_expire_time">Expiry date:%s</string>
   <string name="ticket_format_data">yyyy.MM.dd</string>
   <string name="ticket_list_empty_loaderror">Failed to load, please try again</string>
@@ -688,6 +694,6 @@ Vouchers can be used as cash"</string>
   <string name="ticket_list_empty_text">"You don't have any vouchers"</string>
   <string name="title_float_closedialog">Close</string>
   <string name="title_game_id">Game ID</string>
-  <string name="title_gamecenter">Xiaomi Game Center</string>
+  <string name="title_gamecenter">MI Game Center</string>
   <string name="xmpp_server_addr"/>
 </resources>
